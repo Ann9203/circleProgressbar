@@ -1,0 +1,3 @@
+include ':circleprogress'
+include ':app'
+rootProject.name = "circleProgressbar"
